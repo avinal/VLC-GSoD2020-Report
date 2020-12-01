@@ -51,7 +51,6 @@ The next part was to frame the actual documentation pages and push to the reposi
 
 ### Work Done
 
-<p align=center>
 <table>
   <tr>
    <td><strong>Documentation</strong>
@@ -85,7 +84,6 @@ The next part was to frame the actual documentation pages and push to the reposi
   </tr>
 </table>
 
-</p>
 Since the Android port of VLC can be installed on Android Smartphones/Tablets, Android TVs, Amazon Fire Devices and Chromebooks too, a full documentation will cover these all devices. Although these are different form factors, the features provided on each of them is exactly the same and the same documentation can be used for all these devices. As of now only Smartphones/Tablets are covered. And later additional pages will be added to reference different features/User Interface. Regardless of this addition the current documentation can serve a major part for all these form factors. 
 
 
@@ -93,7 +91,6 @@ Since the Android port of VLC can be installed on Android Smartphones/Tablets, A
 
 All major chapters have been covered for smartphones and tablets. The table below is a summary of work. 
 
-<p align=center>
 <table>
   <tr>
    <td><strong>Chapters</strong>
@@ -246,7 +243,6 @@ All major chapters have been covered for smartphones and tablets. The table belo
    </td>
   </tr>
 </table>
-</p>
 
 
 ## CHALLENGES
