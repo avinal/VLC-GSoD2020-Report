@@ -238,7 +238,6 @@ All major chapters have been covered for smartphones and tablets. The table belo
 <li>Screenshot Guidelines</li>
 
 <li>READMEs</li>
-</li>
 </ul>
    </td>
    <td><strong>IN PROGRESS</strong>
