@@ -6,8 +6,6 @@
 
 *Email*: **185067@nith.ac.in**
 
-*Résumé/CV*: https://docs.google.com/document/d/1zZviZNtVPCAxoTQv2sHXYAF7DHYz3gbYtsrPkja2F9o/edit?usp=sharing
-
 *Additional information*: I have been writing documentation for my own projects for 2 years now. Other than that I have been actively contributing on Quora and Stack Overflow. VLC for android is a great application and packs a lot of features. But there is no proper documentation to cover them all. I would like to write a relevant and easily readable documentation that could help the people to explore the full potential of the app.
 
 ## ABSTRACT
